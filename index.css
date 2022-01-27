@@ -1,5 +1,5 @@
 body{
-    background-color: #E1EBE6;
+    background-color:#E1EBE6 ;
     }
    *{
     Font-family:Poppins;
@@ -7,11 +7,6 @@ body{
   h2{
       font-weght: bold;
   }  
-  .nav{
-      background: white;
-  }
-
-  .nav ul li{
-      display: inline-block;
-      font-family: 'Times New Roman', Times, serif;
+  .First ul{
+      flex: right;
   }
