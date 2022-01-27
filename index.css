@@ -4,14 +4,29 @@ body{
    *{
     Font-family:Poppins;
     }
-  h2{
-      font-weght: bold;
-  }  
-  .First-ul{
+  
+  .li{
+      display: inline-block;
       float: right;
   }
 
+   h1{
+       float:right; 
+   }   
+      
+  
+.logo{
+    float: left;
+}
+ .First-ul ul{
+        float: right
+        
+        
+    }
+.First-ul ul li{
+    display: inline-block
+    
+}
+  
 
-  .logo{
-      float: left;
-  }
+  
