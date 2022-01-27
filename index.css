@@ -7,6 +7,11 @@ body{
   h2{
       font-weght: bold;
   }  
-  .First ul{
-      flex: right;
+  .First-ul{
+      float: right;
+  }
+
+
+  .logo{
+      float: left;
   }
