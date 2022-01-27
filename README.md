@@ -8,3 +8,4 @@ This is a website about Burger Palace.
 *Then click on the live link on the about section
 *Have a great deal with the project. Cheers!
 # License
+Copyright (c) 2022 (Click to view license) (License)
