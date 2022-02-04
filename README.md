@@ -40,7 +40,7 @@
 
 MIT License
 
-Copyright (c) [2022] [winston Musasia]
+Copyright (c) [2022] [Winston Musasia]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -63,5 +63,5 @@ SOFTWARE.
 [Go Back to the top](#portfolio)
 
 ## Authors Info
-
+*By Winston Musasia
  top](#portfolio)
